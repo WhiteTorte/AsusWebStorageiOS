@@ -1,6 +1,32 @@
 import SwiftUI
 
 struct ContentView: View {
+    @State private var isStarted = false
+
+    var body: some View {
+        if isStarted {
+            RequestView()
+        } else {
+            VStack(spacing: 20) {
+                Text("AWSAPI")
+                    .font(.largeTitle)
+                    .fontWeight(.bold)
+                Button("시작하기") {
+                    isStarted = true
+                }
+                .padding()
+                .background(Color.blue)
+                .foregroundColor(.white)
+                .cornerRadius(10)
+                Spacer()
+            }
+            .frame(minWidth: 600, minHeight: 500) // 추가됨
+            .padding()
+        }
+    }
+}
+
+struct RequestView: View {
     @State private var v = ""
     @State private var foid = ""
     @State private var ow = ""
@@ -26,6 +52,7 @@ struct ContentView: View {
             }
             Spacer()
         }
+        .frame(minWidth: 600, minHeight: 500) // 추가됨
         .padding()
     }
 
