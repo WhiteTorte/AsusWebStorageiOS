@@ -25,3 +25,9 @@ I am currently developing versions of the tool for Python, Android, and iOS plat
 Thank you.
 
 --
+
+
+https://youtu.be/ncgYtqBvzPU
+
+
+유튜브 링크입니다.
