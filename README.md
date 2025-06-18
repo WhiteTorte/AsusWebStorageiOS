@@ -12,7 +12,6 @@
 
 --
 ![경주_포스터_김동인_최종](https://github.com/user-attachments/assets/180e5e51-5c28-49eb-860c-61f7f47e87e6)
-![경주_포스터_김동인_최종](https://github.com/user-attachments/assets/180e5e51-5c28-49eb-860c-61f7f47e87e6)
 
 
 This project is based on my research paper, “Acquisition Methods for User Data from AsusWebStorage,” which will be presented at the upcoming Summer Conference of the Korean Institute of Information Security and Cryptology. I am the first author of the paper.
