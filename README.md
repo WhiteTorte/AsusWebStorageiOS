@@ -11,7 +11,9 @@
 
 감사합니다.
 
-[포스터_김동인_최종.pdf](https://github.com/user-attachments/files/20797455/_._.pdf)
+[포스터_김동인_최종.pdf](https://github.com/user-attachments/files/20797459/_._.pdf)
+[포스터_김동인_최종.pdf](https://github.com/user-attachments/files/20797459/_._.pdf)
+
 
 --
 
